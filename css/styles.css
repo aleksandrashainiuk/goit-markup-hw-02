@@ -1,0 +1,83 @@
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+   }
+
+ .body {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+ }
+ a,
+ li {
+    list-style-type: none;
+    text-decoration: none;
+ }
+ <!-------header------->
+.logo
+ {font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-decoration: uppercase;
+    color: #2e2f42;
+}
+ .header-logo {font-family: "Raleway", sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: 1.33;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #4d5ae5;}
+         .header-n        {font-family: "Raleway", sans-serif;
+            text-transform: uppercase;
+            text-decoration: none;
+            color: #2e2f42;
+         }
+ .link-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: uppercase;
+    color: #2e2f42;}
+.adress-list {font-style: normal;
+color: #2e2f42;}
+.navegetion-btn{
+    color: #404BBF;
+}
+    .header-btn{
+        color: #F4F4FD;
+        background-color: #4D5AE5;
+            background: #404BBF
+        }
+        .footer-logo-second {font-family: "Raleway", sans-serif;
+            font-weight: 800;
+                font-size: 18px;
+                letter-spacing: 1.33;
+                text-transform: uppercase;
+                text-decoration: none;
+            color: #F4F4FD;}
+            .footer {width: 1440px;
+                height: 312px;
+                left: 0px;
+                top: 1764px;
+                    background:#2E2F42;
+                }
+                .text {width: 258.9px;
+                height: 63.5px;
+                left: 156.74px;
+                top: 1908.84px;
+            color: #F4F4FD;}
+            .order-service{
+            background: #2E2F42;
+        font-family: 'Roboto';
+            color: #FFFFFF;}
+                        
